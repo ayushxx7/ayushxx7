@@ -7,6 +7,8 @@
 - 👯 My thoughts go here: [my blog](https://ayush-blog.netlify.app/)
 - 🤔 I’m looking for help with creating a quick installer for my [Vim config](https://github.com/ayushxx7/dotfiles)
 - 💬 Ask me about Python, Vim, Git
-- 📫 How to reach me: @ayushxx7
+- 📫 How to reach me: 
+   - My Internet Handle: `@ayushxx7`
+   - My Email (base64 encoded): `YXl1c2h4eDdAZ21haWwuY29t`
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I wrote a shell script to turn my Bluetooth On & Off
