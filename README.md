@@ -1,12 +1,12 @@
-### Hi there 👋
+### Hi there 👋 I am Ayush Mandowara, currently working as a software engineer at [BlueStacks](www.bluestacks.com)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on [my blog](https://ayush-blog.netlify.app/)
-- 🌱 I’m currently learning MERN Stack
-- 👯 I’m looking to collaborate on a secret project
-- 🤔 I’m looking for help with Vim configuration
+- 🔭 I’m currently working on 
+   - Automating operations via Python & JS
+   - Creating Robust, Scalable Test Suites for BlueStacks 5 (Beta) using [PyTest](https://pypi.org/project/pytest/)
+- 🌱 I’m currently learning about Cloud Development
+- 👯 My thoughts go here: [my blog](https://ayush-blog.netlify.app/)
+- 🤔 I’m looking for help with creating a quick installer for my [Vim config](https://github.com/ayushxx7/dotfiles)
 - 💬 Ask me about Python, Vim, Git
 - 📫 How to reach me: @ayushxx7
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I wrote a shell script to turn my Bluetooth On & Off!
+- ⚡ Fun fact: I wrote a shell script to turn my Bluetooth On & Off
